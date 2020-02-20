@@ -1,4 +1,4 @@
-# Yocto Project / OpenEmbedded-Core (OE-Core) Maintainers File
+﻿# Yocto Project / OpenEmbedded-Core (OE-Core) Maintainers File
 #
 # This file contains a list of recipe maintainers.
 #
@@ -560,7 +560,6 @@ RECIPE_MAINTAINER_pn-piglit = "Maxin B. John <maxin.john@intel.com>"
 RECIPE_MAINTAINER_pn-pigz = "Hongxu Jia <hongxu.jia@windriver.com>"
 RECIPE_MAINTAINER_pn-pinentry = "Armin Kuster <akuster808@gmail.com>"
 RECIPE_MAINTAINER_pn-pixman = "Maxin B. John <maxin.john@intel.com>"
-RECIPE_MAINTAINER_pn-pixz = "Denys Dmytriyenko <denys@ti.com>"
 RECIPE_MAINTAINER_pn-pkgconf = "Maxin B. John <maxin.john@intel.com>"
 RECIPE_MAINTAINER_pn-pkgconfig = "Maxin B. John <maxin.john@intel.com>"
 RECIPE_MAINTAINER_pn-pm-utils = "Maxin B. John <maxin.john@intel.com>"
